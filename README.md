@@ -41,3 +41,4 @@ npm install
 ### 2 Create .env.local in project root with your NewsAPI key:
 NEWSAPI_KEY=your_api_key_here
 ### 3 npm run dev
+npm run dev
