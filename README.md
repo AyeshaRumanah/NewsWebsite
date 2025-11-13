@@ -34,7 +34,7 @@ Follow these steps to run the project locally:
 
 ### 1️ Clone the repository
 ```bash
-git clone https://github.com/yourusername/news-website.git
+git clone https://github.com/AyeshaRumanah/NewsWebsite.git
 cd news-website
 npm install
 
